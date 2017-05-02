@@ -11,9 +11,9 @@ A Ruby on Rails web application built by @alyssahursh and @brianaeng. Our first 
 * HTML/CSS
 
 ## Successes
-* We worked very well together, splitting up front-end and back-end work to avoid merge conflicts and maintain project velocity.
+* We worked very well together, splitting up front-end and back-end work to avoid merge conflicts and maintain project velocity. We were able to break the project into micro tasks and checked in with each other frequently. Well-matched communications styles made this project especially enjoyable.
 * We created a mock login feature, redirecting to a "logged in" view from certain ingresses (we hadn't yet learned user authentication).
-* The layout and design turned out quite well (especially given that this was our second project with a front-end).
+* The layout and design turned out quite well (especially given that this was our second project with substantial HTML/CSS).
 
 ## User Stories Implemented
 
