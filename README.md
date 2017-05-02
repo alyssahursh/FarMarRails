@@ -1,7 +1,7 @@
 # Farmers Market Database
 A Ruby on Rails web application built by [Briana Eng](https://www.github.com/brianaeng) and [Alyssa Hursh](https://www.github.com/alyssahursh). Our first Rails application, with a SQLite database seeded by CSV import. Interact with it [here](https://farmar-app.herokuapp.com). (This application is deployed on Heroku, so you may need to give the site a minute to wake up the server.)
 
-![Farmar screen shots](/Farmar.png?raw=true "Farmar screen shots")
+![Farmar screen shots](/FarmarSS.png?raw=true "Farmar screen shots")
 
 
 ## Technologies
